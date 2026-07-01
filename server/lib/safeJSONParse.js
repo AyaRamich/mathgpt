@@ -6,6 +6,6 @@ export function safeJSONParse(text) {
     const fixed = text
       .replace(/,\s*}/g, '}')
       .replace(/,\s*]/g, ']')
-    return JSON.parse(fixed) // si ça throw encore, withRetry va catch et retenter
+    return JSON.parse(fixed) 
   }
 }

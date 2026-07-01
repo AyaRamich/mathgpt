@@ -1,6 +1,6 @@
 import { GoogleGenAI } from "@google/genai"
 import { withRetry } from "../lib/retry.js"
-import { safeJSONParse } from "../lib/safeJSONParse.js"
+import { safeJSONParse } from "../lib/safeJsonParse.js"
 
 const ai= new GoogleGenAI ({
 apiKey:process.env.GEMINI_API_KEY
