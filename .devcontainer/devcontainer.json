@@ -1,0 +1,9 @@
+{
+  "name": "Node.js Docker Env",
+  "image": "node:22-alpine",
+  "features": {},
+  "forwardPorts": [3000,5173],
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "sh"
+  }
+}
