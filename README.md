@@ -18,10 +18,10 @@
 
 ## Screenshots 
 
-###Login 
+### Login 
 <img width="523" height="602" alt="Image" src="https://github.com/user-attachments/assets/03261d4e-32f7-45fc-bc29-10e6a159b0fa" />
 
-###Dashboard 
+### Dashboard 
 
  ***simple equation***
  
